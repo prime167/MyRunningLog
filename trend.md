@@ -1,4 +1,4 @@
-### Total: 317 days, 1855.13 km.
+### Total: 318 days, 1861.17 km.
 
 
 ![Monthly](https://github.com/prime167/MyRunningLog/blob/main/data/CumulativeTrendByMonth.png)
